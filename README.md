@@ -1,2 +1,1 @@
-# HTML_Session_2Assignment_1
-HTML_Session_2Assignment_1
+Design a HTML page having ordered and unordered list of items
